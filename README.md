@@ -7,12 +7,12 @@ A code artisan gets involved on every code line, always finding a way to do the 
  #### I'd hope we could stay in touch soon
  
  - 🤝🏻LinkedIn: https://www.linkedin.com/in/barmartinezc/
- - 📫EMail:barmartinezc@gmail.com
+ - 📫Mail:barmartinezc@gmail.com
 
-### About Me
+### About Me 🌝
 
-I'm Barbie, a young enthusiast developer who likes to work with open source technologies, and also like to contribute.
+I'm Barbie, a young enthusiast dev who likes to work with open source technologies, and also like to contribute.
 
-### Ask me about
+### Ask me about 💬
 
 JavaScript, ReactJS, NodeJS, Git, ExpressJS, Azure DevOps, Azure Services, C# and Bash. 
