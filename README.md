@@ -15,4 +15,4 @@ I'm Barbie, a young enthusiast dev who likes to work with open source technologi
 
 ### Ask me about 💬
 
-JavaScript, ReactJS, NodeJS, Git, ExpressJS, Azure DevOps, Azure Services, C# and Bash. 
+JavaScript, ReactJS, NodeJS, Git, ExpressJS, Azure DevOps, Azure cloud services, MongoDB, SQL Server, C# and Bash. 
