@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-<!--
-**Bmartin2013/bmartin2013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Maybe are you wondering... **what does it mean to be a code artisan?** 
 
-Here are some ideas to get you started:
+A code artisan gets involved on every code line, always finding a way to do the things better and better until it reaches to its final masterpiece.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ #### I'd hope we could stay in touch soon
+ 
+ - 🤝🏻LinkedIn: https://www.linkedin.com/in/barmartinezc/
+ - 📫EMail:barmartinezc@gmail.com
+
+### About Me
+
+I'm Barbie, a young enthusiast developer who likes to work with open source technologies, and also like to contribute.
+
+### Ask me about
+
+JavaScript, ReactJS, NodeJS, Git, ExpressJS, Azure DevOps, Azure Services, C# and Bash. 
