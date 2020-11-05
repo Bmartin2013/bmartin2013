@@ -13,9 +13,9 @@ A code artisan gets involved on every code line, always finding a way to do the 
 
 I'm Barbie, a young enthusiast dev who likes to work with open source technologies, and also like to contribute.
 
-
 ![Bmartin2013's github stats](https://github-readme-stats.vercel.app/api?username=bmartin2013)
 
+Check my work/gaming kit [here](https://kit.co/larrulabay/pc-layout)
 
 ### Ask me about 💬
 
