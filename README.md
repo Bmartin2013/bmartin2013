@@ -4,7 +4,7 @@ Maybe are you wondering... **what does it mean to be a code artisan?**
 
 A code artisan gets involved on every code line, always finding a way to do the things better and better until it reaches to its final masterpiece.
 
- #### I'd hope we could stay in touch soon
+ #### I hope we could stay in touch soon
  
  - 🤝🏻LinkedIn: https://www.linkedin.com/in/barmartinezc/
  - 📫Mail:barmartinezc@gmail.com
